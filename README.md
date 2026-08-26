@@ -21,11 +21,11 @@ The dataset also contains missing values and a duplicate row intentionally, maki
 Python
 Pandas
 CSV
-Project Structure
-├── create_dataset.py
-├── analyze_dataset.py
-└── customers.csv
-What I Learned
+## Project Structure
+- create_dataset.py
+- analyze_dataset.py
+- customers.csv
+## What I Learned
 
 Through this project, I practiced the basic workflow of working with a real-world dataset in Pandas, from loading raw data to extracting useful information from it.
 
